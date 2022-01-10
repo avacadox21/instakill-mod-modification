@@ -1,0 +1,22 @@
+{
+  "mappings": {
+    "me/saturn/instantkill/mixin/ClientPlayerInteractionManagerMixin": {
+      "stopUsingItem": "Lnet/minecraft/class_636;method_2897(Lnet/minecraft/class_1657;)V"
+    },
+    "me/saturn/instantkill/mixin/InventoryScreenMixin": {
+      "init": "Lnet/minecraft/class_490;method_25426()V",
+      "render": "Lnet/minecraft/class_490;method_25394(Lnet/minecraft/class_4587;IIF)V"
+    }
+  },
+  "data": {
+    "named:intermediary": {
+      "me/saturn/instantkill/mixin/ClientPlayerInteractionManagerMixin": {
+        "stopUsingItem": "Lnet/minecraft/class_636;method_2897(Lnet/minecraft/class_1657;)V"
+      },
+      "me/saturn/instantkill/mixin/InventoryScreenMixin": {
+        "init": "Lnet/minecraft/class_490;method_25426()V",
+        "render": "Lnet/minecraft/class_490;method_25394(Lnet/minecraft/class_4587;IIF)V"
+      }
+    }
+  }
+}
